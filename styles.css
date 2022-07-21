@@ -6,3 +6,8 @@
 .iframe1{
    filter: invert(.9) saturate(0.5) hue-rotate(145deg);
 }
+.contacto{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
